@@ -1,0 +1,14 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Agent and editor configuration
+.agent/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
